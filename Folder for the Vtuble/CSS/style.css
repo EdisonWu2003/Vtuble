@@ -1,0 +1,297 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.bg {
+    width: 940px;
+    height: 880px;
+    padding: 53px 160px 35px;
+    background-color: #edf2c5;
+  }
+
+.header{
+    width: 940px;
+    height: 0;
+    display: inline-block;
+}
+
+  .header h1{
+    width: 271px;
+    height: 62px;
+    margin: 0 456px 0 0;
+    font-family: Arial;
+    font-size: 44px;
+    font-weight: 900;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 0.82;
+    letter-spacing: normal;
+    text-align: left;
+    color: #778a50;
+    display: inline-block;
+  }
+  .icons{
+    width: 120px;
+    height: 25px;
+    margin: 0;
+    display: inline-block;
+    text-align: left;
+  }
+
+img.btn_facebook{
+    width: 25px;
+    height: 25px;
+    margin: 0 10px 0 0;
+    object-fit: contain;
+}
+img.btn_instagram{
+    width: 25px;
+    height: 25px;
+    margin: 0;
+    object-fit: contain;
+}
+
+.line_icons{
+    width: 1px;
+    height: 25px;
+    margin: 0 10px;
+    background-color: #7d7d7d;
+    display: inline-block;
+}
+
+.box_btn_login{
+    width: 60px;
+    height: 25px;
+    margin: 0;
+    border: solid 1px #778a50;
+    border-radius: 3px;
+    display: inline-block;
+    position: absolute;
+}
+.btn_login{
+    width: 46px;
+    height: 14px;
+    margin: 4px 7px;
+    font-family: Arial;
+    font-size: 14px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1;
+    letter-spacing: normal;
+    text-align: center;
+    color: #778a50;
+}
+
+.box_btn_join{
+    width: 49px;
+    height: 25px;
+    margin: 0 70px;
+    border: solid 1px #778a50;
+    border-radius: 3px;
+    display: inline-block;
+    position: absolute;
+}
+.btn_join{
+    width: 35px;
+    height: 14px;
+    margin: 4px 7px;
+    font-family: Arial;
+    font-size: 14px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1;
+    letter-spacing: normal;
+    text-align: center;
+    color: #778a50;
+}
+
+  .part_header_list{
+    width: 940px;
+    height: 44px;
+    margin: 18px 0 20px;
+    border-radius: 3px;
+    background-color: #778a50;
+  }
+  .part_header_list ul{
+    width: 940px;
+    height: 44px;
+  }
+  .part_header_list li{
+    font-family: Arial;
+    font-size: 16px;
+    font-weight: 900;
+    font-stretch: normal;
+    font-style: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #edf2c5;
+    display: inline-block; 
+    margin: 13px 30px;
+  }
+
+  img.img_main_pumpkin {
+    width: 940px;
+    height: 448px;
+    margin: 0 0 30px;
+    object-fit: contain;
+  }
+
+  .mid_part{
+    width: 940px;
+    height: 0;
+    margin: 0;
+    padding: 0;
+  }
+
+.part_vegetables{
+    width: 445px;
+    height: 23px;
+    font-family: Arial;
+    font-size: 16px;
+    font-weight: 900;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2.25;
+    letter-spacing: normal;
+    text-align: left;
+    color: #edf2c5;
+}
+.box_vegetables{
+    width: 445px;
+    height: 45px;
+    border-radius: 3px;
+    background-color: #778a50;
+}
+.box_vegetables h2{
+    width: 98px;
+    height: 23px;
+    padding: 15px 30px;
+    font-family: Arial;
+    font-size: 16px;
+    font-weight: 900;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1;
+    letter-spacing: normal;
+    text-align: left;
+    color: #edf2c5;
+}
+
+.img_vegetables{
+    width: 445px;
+    display: inline-block;
+}
+img.img_vegetables_pepper {
+    width: 140px;
+    height: 140px;
+    margin: 15px 3px 0 0;
+    object-fit: contain;
+  }
+  img.img_vegetables_carrot {
+    width: 140px;
+    height: 140px;
+    margin: 15px 3px 0;
+    object-fit: contain;
+  }
+  img.img_vegetables_corn {
+    width: 140px;
+    height: 140px;
+    margin: 15px 0 0 3px;
+    object-fit: contain;
+    
+  }
+
+.box_contact{
+    width: 445px;
+    height: 45px;
+    margin: -23px 0 15px;
+    border-radius: 3px;
+    background-color: #778a50;
+}
+.part_contact h2{
+    width: 69px;
+    height: 23px;
+    padding: 16px 30px;
+    font-family: Arial;
+    font-size: 16px;
+    font-weight: 900;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1;
+    letter-spacing: normal;
+    text-align: left;
+    color: #edf2c5;
+}
+
+.box_contact_text{
+    width: 415px;
+    height: 110px;
+    margin: 15px 0 0;
+    padding: 15px;
+    background-color: #f7fbda;
+}
+.contact_text_1{
+    width: 414px;
+    height: 44px;
+    margin: 0 0 15px;
+    font-family: Arial;
+    font-size: 12px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.25;
+    letter-spacing: normal;
+    text-align: left;
+    color: #7d7d7d;
+}
+.line_contact_text{
+    width: 414px;
+    height: 1px;
+    margin: 15px 0;
+    background-color: #7d7d7d;
+}
+.contact_text_2{
+    width: 197px;
+    height: 35px;
+    margin: 15px 217px 0 0;
+    font-family: Arial;
+    font-size: 12px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.75;
+    letter-spacing: normal;
+    text-align: left;
+    color: #7d7d7d;
+}
+
+aside {
+    width: 445px;
+    float: right;
+}
+
+.bottom{
+    width: 1260px;
+    height: 60px;
+    padding-right: 3px;
+    margin: 235px 0 0 -160px;
+    background-color: #778a50;
+}
+
+.bottom p{
+    width: 301px;
+    height: 14px;
+    margin: 24px 479px 25px;
+    font-family: Arial;
+    font-size: 12px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #edf2c5;
+}
